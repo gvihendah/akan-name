@@ -35,8 +35,8 @@ As a user, i would like to;
 - Git
 
 ## Contact information.
-Email: vihendah247@gmail.com
-phone : 0724592047
+- Email: vihendah247@gmail.com
+- phone : 0724592047
 
 ## License and Copyright information.
 (c) 2022 - Glorine Vihendah.
