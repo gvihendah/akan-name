@@ -9,7 +9,7 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 - Female :Sunday: Akosua,Monday: Adwoa,Tuesday: Abenaa,Wednesday: Akua,Thursday: Yaa,Friday: Afua,Saturday: Ama.
 
 ## Author(s) information.
-Vihendah Glorine
+I am Vihendah Glorine. Iam advancing into full stack software development. I have passion for Software development and hence love coding and building web apps. You can reach me out on vihendah247@gmail.com for collaboration.
 
 ## Setup instructions - includes any scripts that need to be run if necessary.
 - clone project from github - https://github.com/gvihendah/akan-name or downloading a ZIP file of the code.
